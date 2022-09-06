@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | cp ls_cwd_contents
+ls -la | cp 'ls_cwd_contents'
