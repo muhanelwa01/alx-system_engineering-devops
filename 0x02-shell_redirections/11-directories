@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la | tree -a '0x02-shell_redirections'
