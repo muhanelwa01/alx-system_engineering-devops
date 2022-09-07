@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'html2text https://en.wikipedia.org/wiki/The_Die_Is_Cast_(Star_Trek:_Deep_Space_Nine).html | less | head -n 3 html.txt | tail -n 1 html.txt'
+'head -n 3 | tail -n 1'
