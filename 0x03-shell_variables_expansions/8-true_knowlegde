@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $(('128 + export TRUEKNOWLEGDE'))
+cat $(('128 + export TRUEKNOWLEGDE=1209'))
