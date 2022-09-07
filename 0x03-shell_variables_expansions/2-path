@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'mkdir /PATH/action'
+echo export PATH="$HOME/action:$PATH"
