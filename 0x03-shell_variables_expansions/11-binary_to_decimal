@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $((BINARY=2;10))
+cat $(('BINARY=2;10'))
