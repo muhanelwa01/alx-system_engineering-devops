@@ -1,2 +1,2 @@
 #!/bin/bash
-emacs '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'| i 'Best School'
+$(\*\\'"Best School"\'\\*$\?\*\*\*\*\*:) < cat 'Best School'
